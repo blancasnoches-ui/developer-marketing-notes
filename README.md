@@ -22,10 +22,17 @@ Developers usually evaluate products through:
 
 ## Interesting developer tools
 
-Platforms I’m currently exploring:
+Platforms I'm studying for developer onboarding, API design, and product messaging patterns:
 
-- Supabase
-- PostHog
-- Vercel
-- Stripe
-- PlanetScale
+# Developer onboarding patterns
+
+Notes on how developer tools guide first API calls.
+
+## Supabase
+Fast onboarding through SQL examples.
+
+## Stripe
+Clear API docs + quickstart flows.
+
+## Vercel
+Instant deployment creates "aha moment".
