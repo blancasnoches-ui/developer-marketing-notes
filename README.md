@@ -1,4 +1,4 @@
-# Developer Marketing Lab
+# Developer Marketing Notes
 
 Notes and experiments on how developer platforms communicate value and drive adoption.
 
